@@ -40,7 +40,7 @@ Hệ thống Quản lý Học tập (LMS) là một ứng dụng backend đượ
 
 ## Yêu cầu hệ thống
 - .NET 6.0 SDK trở lên
-- SQL Server
+- Postgresql
 - Visual Studio 2022 (khuyến nghị) hoặc VS Code
 
 ## Cài đặt và Chạy
@@ -85,12 +85,4 @@ Mọi đóng góp đều được hoan nghênh. Vui lòng:
 3. Commit changes
 4. Push to branch
 5. Tạo Pull Request
-
-## License
-[MIT License](LICENSE)
-
-## Liên hệ
-Nếu có bất kỳ câu hỏi hoặc góp ý, vui lòng tạo issue hoặc liên hệ trực tiếp qua:
-- Email: [your-email]
-- Website: [your-website]
 
